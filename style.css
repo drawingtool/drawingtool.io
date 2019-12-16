@@ -143,7 +143,7 @@ a.class2:hover {
     grid-gap: 50px;
     background-color: #white;
     color: #444;
-    padding-left: 40vw;
+    padding-left: 450px;
     padding-top: 50px;
     padding-bottom: 45px;
     margin-right: 3vw;
@@ -236,5 +236,3 @@ button:hover {
     cursor: pointer;    
     font-family: redaction50-regular, sans-serif;
 }
-
-
