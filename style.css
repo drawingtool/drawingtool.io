@@ -69,7 +69,7 @@ h4 {
     position: absolute;
     display: inline-block;
     margin-bottom: 0;
-    font-family: redaction20-regular; sans-serif;
+    font-family: redaction20-Regular; sans-serif;
     font-weight: 400;
     font-size: 35px;
     left: 40px;
@@ -92,7 +92,7 @@ h5 {
 }
         
 p1 {
-    font-family:redaction20-regular; sans-serif;
+    font-family:redaction20-Regular; sans-serif;
     position: absolute;
     top: 200px;
     width: 50%;
@@ -110,7 +110,7 @@ p1 {
 }
 
 a.class1 {
-    font-family: redaction100-regular; sans-serif;
+    font-family: redaction100-Regular; sans-serif;
     text-decoration: none;
     bottom: 40px;
     position: absolute;
@@ -122,7 +122,7 @@ a.class1 {
 }
 
 a.class1:hover {
-    font-family: redaction50-regular; sans-serif;
+    font-family: redaction50-Regular; sans-serif;
 }
 
 a.class2 {
@@ -130,7 +130,7 @@ a.class2 {
     position: fixed;
     display: inline-block;
     margin-bottom: 0;
-    font-family: redaction100-regular; sans-serif;
+    font-family: redaction100-Regular; sans-serif;
     font-weight: 400;
     font-size: 35px;
     left: 40px;
@@ -139,7 +139,7 @@ a.class2 {
 }
 
 a.class2:hover {
-    font-family: redaction50-regular; sans-serif;
+    font-family: redaction50-Regular; sans-serif;
 }
 
 #images {
@@ -161,7 +161,7 @@ img {
 
 figcaption {
     display: block;
-    font-family: redaction50-regular; sans-serif;
+    font-family: redaction50-Regular; sans-serif;
     font-size: 30px;
     color: black;
 }
@@ -190,7 +190,7 @@ button {
     font-size: 35px;
     left: 190px;
     color: black;
-    font-family: redaction100-regular; sans-serif;
+    font-family: redaction100-Regular; sans-serif;
     
 }
 
