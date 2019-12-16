@@ -4,6 +4,22 @@ html, body {
   background-color: white;
 }
 
+@font-face {
+    font-family: 'redaction50-Regular';
+    src: url(Redaction50-Regular.woff); format('woff'),
+    src: url(Redaction50-Regular.woff2); format('woff2'),
+}
+@font-face {
+    font-family: 'redaction50-Bold';
+    src: url(Redaction50-Bold.woff); format('woff'),
+    src: url(Redaction50-Bold.woff2); format('woff2'),
+}
+ @font-face {
+    font-family: 'redaction100-Regular';
+    src: url(Redaction100-Regular.woff); format('woff'),
+    src: url(Redaction100-Regular.woff2); format('woff2'),
+}
+
 canvas {
   display: block;
 }
