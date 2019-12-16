@@ -1,3 +1,9 @@
+@fontface {
+  src: url:(fonts/Redaction50-Regular.woff); 
+  
+}
+
+
 html, body {
   margin: 0;
   padding: 0;
