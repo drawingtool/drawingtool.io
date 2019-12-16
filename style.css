@@ -96,7 +96,7 @@ p1 {
     font-family: redaction20-regular; sans-serif;
     position: absolute;
     top: 13vw;
-    width: 1000px;
+    width: 1110px;
     left: 40px;
     font-size: 30px;
     color: black;
@@ -154,25 +154,25 @@ a.class2:hover {
 
 #images {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px;
-    grid-gap: 50px;
+    grid-template-columns: 12vw 12vw 12vw 12vw;
+    grid-gap: 4vw;
     background-color: #white;
     color: #444;
-    padding-left: 500px;
+    padding-left: 35vw;
     padding-top: 50px;
     padding-bottom: 45px;
     margin-right: 3vw;
 }
 
 img {
-    width: 205px;
+    width: 13vw;
     border: 1px solid black;
 }
 
 figcaption {
     display: block;
     font-family: redaction50-regular; sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     color: black;
 }
 
