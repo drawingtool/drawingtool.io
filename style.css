@@ -19,6 +19,11 @@ html, body {
     src: url(Redaction100-Regular.woff); format('woff'),
     src: url(Redaction100-Regular.woff2); format('woff2'),
 }
+ @font-face {
+    font-family: 'redaction20-Regular';
+    src: url(Redaction20-Regular.woff); format('woff'),
+    src: url(Redaction20-Regular.woff2); format('woff2'),
+}
 
 canvas {
   display: block;
@@ -87,7 +92,7 @@ h5 {
 }
         
 p1 {
-    font-family: sans-serif;
+    font-family:redaction20-regular; sans-serif;
     position: absolute;
     top: 200px;
     width: 50%;
