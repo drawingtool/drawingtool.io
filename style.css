@@ -8,17 +8,11 @@ html, body {
 
 @font-face {
     font-family: 'redaction50-Regular';
-    src: url(fonts/redaction50-Regular.woff);
-    font-style: normal;
-    font-weight: 50;
-    
+    src: url(Redaction50-Regular.woff);
 }
-
-@font-face {
+ @font-face {
     font-family: 'redaction100-Regular';
-    src: url(fonts/redaction100-Regular.woff);
-    font-style: normal;
-    font-weight: 100;
+    src: url(Redaction100-Regular.woff);
 }
 
 canvas {
