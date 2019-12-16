@@ -1,14 +1,26 @@
-@fontface {
-  src: url:(fonts/Redaction50-Regular.woff); 
-  
-}
-
 
 html, body {
   margin: 0;
   padding: 0;
   background-color: white;
+  
 }
+
+@font-face {
+    font-family: 'redaction50-Regular';
+    src: url(fonts/redaction50-Regular.woff);
+    font-style: normal;
+    font-weight: 50;
+    
+}
+
+@font-face {
+    font-family: 'redaction100-Regular';
+    src: url(fonts/redaction100-Regular.woff);
+    font-style: normal;
+    font-weight: 100;
+}
+
 canvas {
   display: block;
 }
