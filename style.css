@@ -69,11 +69,11 @@ h4 {
     position: absolute;
     display: inline-block;
     margin-bottom: 0;
-    font-family: redaction20-Regular; sans-serif;
+    font-family: redaction20-regular; sans-serif;
     font-weight: 400;
     font-size: 35px;
     left: 40px;
-    top: 300px;
+    top: 17vw;
     color: black;
     line-height: 1.1;
     
@@ -92,12 +92,12 @@ h5 {
 }
         
 p1 {
-    font-family:redaction20-Regular; sans-serif;
+    font-family: redaction20-regular; sans-serif;
     position: absolute;
-    top: 200px;
-    width: 50%;
+    top: 12vw;
+    width: 60%;
     left: 40px;
-    font-size: 40px;
+    font-size: 35px;
     color: black;
     line-height: 1.1;
     }
@@ -111,7 +111,7 @@ p1 {
 }
 
 a.class1 {
-    font-family: redaction100-Regular; sans-serif;
+    font-family: redaction100-regular; sans-serif;
     text-decoration: none;
     bottom: 40px;
     position: absolute;
@@ -123,7 +123,7 @@ a.class1 {
 }
 
 a.class1:hover {
-    font-family: redaction50-Regular; sans-serif;
+    font-family: redaction50-regular; sans-serif;
 }
 
 a.class2 {
@@ -131,7 +131,7 @@ a.class2 {
     position: fixed;
     display: inline-block;
     margin-bottom: 0;
-    font-family: redaction100-Regular; sans-serif;
+    font-family: redaction100-regular; sans-serif;
     font-weight: 400;
     font-size: 35px;
     left: 40px;
@@ -140,7 +140,7 @@ a.class2 {
 }
 
 a.class2:hover {
-    font-family: redaction50-Regular; sans-serif;
+    font-family: redaction50-regular; sans-serif;
 }
 
 #images {
@@ -149,7 +149,7 @@ a.class2:hover {
     grid-gap: 50px;
     background-color: #white;
     color: #444;
-    padding-left: 450px;
+    padding-left: 500px;
     padding-top: 50px;
     padding-bottom: 45px;
     margin-right: 3vw;
@@ -162,7 +162,7 @@ img {
 
 figcaption {
     display: block;
-    font-family: redaction50-Regular; sans-serif;
+    font-family: redaction50-regular; sans-serif;
     font-size: 30px;
     color: black;
 }
@@ -191,7 +191,7 @@ button {
     font-size: 35px;
     left: 190px;
     color: black;
-    font-family: redaction100-Regular; sans-serif;
+    font-family: redaction100-regular; sans-serif;
     
 }
 
