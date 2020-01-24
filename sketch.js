@@ -5,7 +5,14 @@ const wordsArray = [
   'ANXIETY',
   'WOKE',
   'MISOGYNY',
-  'STRESS'
+  'STRESS',
+  'BELIEF',
+  'CULTURE',
+  'GENDER',
+  'INTEGRITY',
+  'EQUALITY',
+  'UTOPIA',
+  'MEANING',
 ];
 
 //find out the length of the list
