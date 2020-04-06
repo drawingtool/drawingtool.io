@@ -204,23 +204,6 @@ button {
     
 }
 
-a.Submit {
-    bottom: 38.5px;
-    position: absolute;
-    display: inline-block;
-    margin-bottom: 0;
-    font-family: redaction100-regular; sans-serif;
-    font-weight: 400;
-    font-size: 35px;
-    left: 335px;
-    color: black;
-    text-decoration: none;
-}
-
-a.Submit:hover {
-    font-family: redaction50-regular, sans-serif;
-}
-
 a.archive {
     bottom: 38.5px;
     position: absolute;
@@ -229,7 +212,7 @@ a.archive {
     font-family: redaction100-regular; sans-serif;
     font-weight: 400;
     font-size: 35px;
-    left: 510px;
+    left: 326px;
     color: black;
     text-decoration: none;
 }
@@ -242,7 +225,7 @@ a.archive:hover {
     font-family: redaction50-regular; sans-serif;
     font-weight: 400;
     font-size: 35px;
-    left: 510px;
+    left: 326px;
     color: black;
     text-decoration: none;
 }
